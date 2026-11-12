@@ -1,0 +1,11 @@
+# Command menu: down to Magic, open it, wait, close, back up to Attack (HUD animation). UNSAFE as is: the
+# menu remembers its cursor; on 2026-11-10 this ended in a Drive into Valor Form. Check the selection first.
+300 -
+150 DOWN     # Attack -> Magic
+400 -
+150 A        # open the Magic list
+900 -
+150 B        # close
+400 -
+150 UP       # back to Attack
+500 -

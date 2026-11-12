@@ -1,0 +1,7 @@
+# Walk Sora in a small square (left stick, half tilt, ~1 s per side) and stop near the start.
+200 -
+1000 - 0 0.5      # forward
+1000 - 0.5 0      # right
+1000 - 0 -0.5     # back
+1000 - -0.5 0     # left
+500 -

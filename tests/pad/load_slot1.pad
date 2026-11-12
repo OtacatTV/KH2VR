@@ -1,0 +1,4 @@
+# Load menu: the cursor starts on slot 1; A loads it (the human's demo pressed A once here).
+300 -
+120 A           # load slot 1
+300 -

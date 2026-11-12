@@ -1,0 +1,8 @@
+# Title menu (cursor starts on NEW GAME): D-pad down once to LOAD, then A. The human's demo used a 64 ms
+# stick flick; a scripted 120 ms flick was missed once (2026-11-10: the A then opened NEW GAME), so this
+# waits for the menu to settle and uses the D-pad with a longer hold.
+800 -
+200 DOWN        # NEW GAME -> LOAD
+500 -
+150 A           # open LOAD
+300 -

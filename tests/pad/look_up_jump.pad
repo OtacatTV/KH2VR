@@ -1,0 +1,14 @@
+# Look up toward the sky (right stick up), then jump and attack in the air, twice (~4 s). Repro for the bright
+# flash when jumping and attacking while looking up in the Back Alley (human, 2026-11-11).
+200 -
+900 - 0 0 0 1      # camera up
+150 B   0 0 0 1    # jump
+150 A   0 0 0 1    # air attack
+150 -   0 0 0 1
+150 A   0 0 0 1
+600 -   0 0 0 1
+150 B   0 0 0 1
+150 A   0 0 0 1
+150 -   0 0 0 1
+150 A   0 0 0 1
+600 -

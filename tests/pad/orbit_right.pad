@@ -1,0 +1,4 @@
+# Orbit the camera right for 2 s with the right stick, then let go
+200 -
+2000 - 0 0 1 0   # right stick full right
+500 -

@@ -1,0 +1,4 @@
+# Smoke test: tap A once (a requested press; the outcome is checked separately)
+300 -   # settle
+120 A   # tap A
+300 -

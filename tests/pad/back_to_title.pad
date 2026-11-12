@@ -1,0 +1,5 @@
+﻿# Back out of a dialog to the title menu with ONE B press. A second B at the title selects BACK, which
+# quits the game when it was started directly (no collection launcher): seen 2026-11-10.
+300 -
+150 B
+600 -

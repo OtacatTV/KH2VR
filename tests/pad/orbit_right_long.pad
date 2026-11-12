@@ -1,0 +1,7 @@
+# Sweep the camera left then right (3 s each, right stick at half tilt), then let go. Ends near where it
+# started, so repeated runs don't pin the camera against the alley walls (a one-way 6 s orbit did, 2026-11-10).
+# For burst captures at Unlocked, where the render thread adds in-between frames while something moves.
+200 -
+3000 - 0 0 -0.5 0   # right stick half left
+3000 - 0 0 0.5 0    # right stick half right
+500 -

@@ -1,0 +1,10 @@
+# Use the reaction command (Y, shown as Examine at the test spot), then A x3 to close any message
+300 -
+150 Y        # reaction command
+1500 -
+150 A
+600 -
+150 A
+600 -
+150 A
+800 -

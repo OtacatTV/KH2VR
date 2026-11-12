@@ -1,0 +1,34 @@
+# Field: open the menu, go down 6 to Config, enter it, go down 8 rows (wraps to Field Camera). Only from a fresh
+# menu (cursor on Items): the menu remembers its last entry, so a second use lands elsewhere (open_config in run camcrash1)
+150 START
+1200 -
+100 DOWN
+250 -
+100 DOWN
+250 -
+100 DOWN
+250 -
+100 DOWN
+250 -
+100 DOWN
+250 -
+100 DOWN
+400 -
+150 A
+1500 -
+100 DOWN
+250 -
+100 DOWN
+250 -
+100 DOWN
+250 -
+100 DOWN
+250 -
+100 DOWN
+250 -
+100 DOWN
+250 -
+100 DOWN
+250 -
+100 DOWN
+600 -

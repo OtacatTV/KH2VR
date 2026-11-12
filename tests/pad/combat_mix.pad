@@ -1,0 +1,28 @@
+# Combat mix: attack combos interleaved with camera sweeps (right stick) and a jump, ~7 s
+200 -
+120 A
+150 -
+120 A
+150 -
+120 A
+150 -
+120 A
+300 -
+800 - 0 0 -0.6 0   # camera left
+120 A
+150 -
+120 A
+150 -
+120 A
+300 -
+800 - 0 0 0.6 0    # camera right
+150 B               # jump
+300 -
+120 A
+150 -
+120 A
+150 -
+120 A
+150 -
+120 A
+500 -
